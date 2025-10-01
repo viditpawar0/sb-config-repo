@@ -1,4 +1,4 @@
 spring:
   datasource:
-    username: spring
+    username: springboot
     password: boot
