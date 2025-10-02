@@ -1,0 +1,5 @@
+test:value
+spring:
+  datasource:
+    username: springboot
+    password: boot
