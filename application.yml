@@ -1,4 +1,1 @@
-spring:
-  datasource:
-    username: springboot
-    password: boot
+
